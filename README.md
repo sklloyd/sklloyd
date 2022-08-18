@@ -15,10 +15,8 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/thepiyushmalhotra">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sklloyd&theme=noctis_minimus&show_icons=true" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sklloyd&theme=noctis_minimus&layout=compact" />
-</a>
 </p>
 
 <br>
