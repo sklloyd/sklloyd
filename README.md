@@ -10,17 +10,6 @@
   <img src= "https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 </p>
 
-<h2>My Stats</h2>
-
-<br>
-
-<p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sklloyd&theme=noctis_minimus&show_icons=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sklloyd&theme=noctis_minimus&layout=compact" />
-</p>
-
-<br>
-
   ![Snake animation](https://github.com/sklloyd/sklloyd/blob/output/github-contribution-grid-snake.svg)
   
 <br>
